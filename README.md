@@ -19,14 +19,7 @@
 9. Seaborn
 10. Pandas
 
-## Datasets
-1. http://www.data.gov/
-1. http://aws.amazon.com/public-data-sets/
-1. http://www.google.com/publicdata/directory
-
-
-
-## Titanic
+## Titanic Dataset
 https://www.kaggle.com/datasets/hesh97/titanicdataset-traincsv?resource=download.   
 
 Note:
